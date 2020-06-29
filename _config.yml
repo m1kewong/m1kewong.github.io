@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Mike Wong"
-  avatar : "/assets/images/avater.png"
+  avatar : "/assets/images/avatar.png"
   bio    : "Where text meets string."
   links:
     - label: "Website"
