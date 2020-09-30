@@ -3,7 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-# My background:
 Received academic training on computer science and philosophy. 
 
 Interested in business, history, mathematics, and physics.
